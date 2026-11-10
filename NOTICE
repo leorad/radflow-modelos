@@ -1,0 +1,5 @@
+Este repositório redistribui pesos do TotalSegmentator (https://github.com/wasserth/TotalSegmentator),
+de Jakob Wasserthal e colaboradores, sob a licença Apache-2.0.
+
+Modificação feita: conversão dos checkpoints nnU-Net (PyTorch) para o formato ONNX.
+Os valores dos pesos não foram alterados.
